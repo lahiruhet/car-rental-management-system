@@ -1,5 +1,7 @@
 # car-rental-management-system
 
+I'm aware of all the unused css files. I'll get rid of them when I have the time
+
 This is a web-based car rental system developed as part of a university project. The system allows users to search for available cars, make reservations, and manage their bookings. It was developed using HTML, Bootstrap, PHP, and MySQL.
 
 Features:
