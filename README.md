@@ -1,6 +1,6 @@
 # car-rental-management-system
 
-Live Demo here: http://34.124.254.34/
+~~Live Demo here: http://34.124.254.34/~~ My free GCP ran out 😟 You can still run locally.
 
 This is a web-based car rental system developed as part of a university project. The system allows users to search for available cars, make reservations, and manage their bookings. It was developed using HTML, Bootstrap, PHP, and MySQL.
 
@@ -16,3 +16,12 @@ Technologies used:
     HTML and Bootstrap for the frontend design
     PHP for server-side scripting
     MySQL for the database management
+
+To run locally, clone this repo
+
+```bash
+
+Install XAMPP server
+Move all the files inside of htdocs located in C:/xampp/htdocs
+Run XAMPP server and PHPMyAdmin
+Navigate to localhost/
